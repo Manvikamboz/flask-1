@@ -5,4 +5,4 @@ made by using :-
 1. Flask
 2. HTML, CSS, JS
 
-![image not update]("C:\Users\hp\Downloads\cafe1.jpg")
+![image not update]("Downloads\cafe1.jpg")
