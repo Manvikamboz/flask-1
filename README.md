@@ -5,4 +5,5 @@ made by using :-
 1. Flask
 2. HTML, CSS, JS
 
-![image not update]("Downloads\cafe1.jpg")
+we will find the website sreccen shot in the repo itself 
+cafe1.png , cafe2.png , cafe3.png , cafe4.png
